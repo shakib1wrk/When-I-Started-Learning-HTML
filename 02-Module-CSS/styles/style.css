@@ -1,0 +1,41 @@
+.header{
+    height: 500px;
+    font-weight: bolder;
+    background-image: url(/Images/download.jpeg);
+    /* background-repeat: no-repeat; */
+    background-repeat: repeat-x;
+    /* background-repeat: repeat-y; */
+    /* background-blend-mode: exclusion; */
+    /* background-size: cover;
+     */
+     background-size: contain;
+     
+
+}
+
+
+
+h3{
+    font-weight: bolder;
+    background-color: blue;
+    font-style: italic;
+    text-decoration: overline;
+}
+
+.second_formal{
+    /* display: none; */
+    visibility: hidden;
+}
+
+.formal{
+    margin-top: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 15px blue;
+}
+
+.incident{
+    color: red;
+    font-weight: bolder;
+    display: block;
+    display: inline-block;
+}
